@@ -13,3 +13,7 @@ I found that the LMMs and GLMM MCMC simulations generally outperformed the simpl
 The findings have important implications for the IPL teams and players, as they can use this information to make informed decisions during the auction and the season. Overall, this study contributes to the growing body of research on sports analytics, cricket and prediction modeling and highlights the potential of _Mixed Models_ for predicting auction prices in T20 cricket leagues like the IPL.
 
 _Keywords:_ Mixed Models, Longitudinal Data Modelling, Regression, MCMC, Sports, Cricket, IPL, Player Salary Prediction.
+
+## Evaluation
+
+This thesis was passed and received a _"Very Good"_ **(B)** grade from the evaluation committee. The manuscript will soon be e-published with a link posted here for future citations.
